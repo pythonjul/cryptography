@@ -5,8 +5,8 @@
 <div align="center">
 
   [![Status](https://img.shields.io/badge/status-inactive-red.svg)]()
-  [![RepoSize](https://img.shields.io/github/repo-size/pythonjul/cryptography)]()
-
+  [![CodeSize](https://img.shields.io/github/languages/code-size/pythonjul/cryptography)]()
+  
 </div>
 
 ---
